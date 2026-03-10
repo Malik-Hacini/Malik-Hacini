@@ -1,4 +1,4 @@
-## Mathematics for neuroscience and learning
+## Mathematics for Neuroscience and  Machine Learning
 
 I am a 21yo _aspiring_ mathematician, currently studying at ENSIMAG - UGA in Grenoble, France.
 Interested in uncovering the secrets of the brain through statistics and geometry : Neuroscience, Machine Learning, Geometric Learning and more.
